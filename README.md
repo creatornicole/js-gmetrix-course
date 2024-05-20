@@ -56,3 +56,18 @@ Purpose:
 - be able to identify parameters within functions
 - know the difference between a value and a reference
 - be able to use a return keyword as part of a function
+
+## Session 3: Decisions and Loops
+- be able to determine when to use the equal sign, the double equal sign, and the not equal sign
+- be able to create a greater than statement and a less than statement that will return a specific message when a condition is met
+- be able to use the less than or equal to sign and greater than or equal to sign to return a specific message when operating conditions are met
+- be able to use a not sign to shorten the code in a Boolean situation
+- be able to determine the two expressions that need to return true for an and evaluator to return a set message
+- know how to create an if statement and how the if statement functions
+- be able to use an else if function to add another action to an overall if statement
+- be able to create a switch statement with multiple conditions to be tested
+- be able to nest an if statement that will return different messages when set conditions are met
+- be able to create and use a for loop to run a block of code a set number of times
+- able to create a while loop and a do loop
+- understand the difference between the while loop and the do loop
+- be able to break code in a loop within an if statement
