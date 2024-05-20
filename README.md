@@ -71,3 +71,17 @@ Purpose:
 - able to create a while loop and a do loop
 - understand the difference between the while loop and the do loop
 - be able to break code in a loop within an if statement
+
+## Session 4: Document Object Model (DOM)
+- understand objects and their properties, how they relate to each other, and how they are used on a webpage
+- be able to start a DOM
+- be able to identify a document and its main parts
+- know how an onchange event is used in JavaScript
+- be able to create an onmouseover event that will return a larger image in a separate image element
+- be able to create an onload event that will give an alert when a webpage is loaded
+- be able to create an onmouseout event that will guide the user on page navigation
+- be able to create an onkeydown event
+- know when to change an element's innerHTML
+- be able to use the document.write method to add content dynamically to a webpage
+- know how to use getElementById, getElementByTagName, and getElementByClassName
+- be able to use the setAttribute method to allow the user to change a heading style
